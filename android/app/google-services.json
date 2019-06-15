@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "318161916838",
+    "firebase_url": "https://e-exam-portal.firebaseio.com",
+    "project_id": "e-exam-portal",
+    "storage_bucket": "e-exam-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318161916838:android:d6761b6c76e2a92f",
+        "android_client_info": {
+          "package_name": "com.projectp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2aWWi0vecWHMe5gngdrCZuLiVu4KW2cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318161916838-ejoepqkm28krns3aajf4qdkcmroahu7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
