@@ -20,7 +20,7 @@ class Login extends React.Component {
   };
 
   skipLogin = () => {
-    this.props.navigation.navigate("Main");
+    this.props.navigation.navigate("Home");
   };
 
   loginFail = () => {};

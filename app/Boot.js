@@ -7,7 +7,7 @@ export default class App extends React.Component {
     setTimeout(() => {
       SplashScreen.hide();
       this.props.navigation.navigate("Login");
-    }, 2000);
+    }, 500);
   }
 
   render() {

@@ -66,12 +66,12 @@ class Home extends React.Component {
     }
     return (
       <View style={styles.container}>
-        <View style={styles.header}>
+        {/* <View style={styles.header}>
           <Input
             containerStyle={styles.containerStyle}
             inputContainerStyle={styles.inputContainerStyle}
             inputStyle={styles.inputStyle}
-            placeholder="Search for a    Exam classes"
+            placeholder="Search for a Exam classes"
             leftIcon={{
               type: "evilIcons",
               name: "search",
@@ -81,7 +81,7 @@ class Home extends React.Component {
               paddingLeft: 0
             }}
           />
-        </View>
+        </View> */}
         <ScrollView>
           <View style={styles.topLinksContainer}>
             {this.props.series.map((item, index) => {
